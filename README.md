@@ -6,7 +6,7 @@
 ## 编译
 <br>提供codeblocks与Cmake两种方式编译。</br>
 * codeblocks 编译： 
-1.  `apt-get install codeblocks`
+1.  `apt-get in stall codeblocks`
 2.  用codeblocks打开example目录下工程，点击build即可。
 * cmake编译： 
 1.  `mkdir build`
